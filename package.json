@@ -1,0 +1,24 @@
+{
+  "name": "bullshit-generator",
+  "version": "1.0.0",
+  "description": "Description javascript实现的文章生成器，课程学习练习案例",
+  "main": "index.js",
+  "types": "module",
+  "dependencies": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev" : "node index.js"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git@gitee.com:hszy00232/bullshit-generator-js.git"
+  },
+  "author": "bingguo",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.33.0"
+  }
+}
