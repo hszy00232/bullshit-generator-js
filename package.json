@@ -5,11 +5,12 @@
   "main": "index.js",
   "types": "module",
   "dependencies": {
-    "lib": "lib"
+    "lib": "lib",
+    "moment": "^2.29.4"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev" : "node index.js"
+    "dev": "node index.js"
   },
   "type": "module",
   "repository": {
